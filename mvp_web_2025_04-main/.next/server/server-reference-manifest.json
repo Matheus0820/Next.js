@@ -1,5 +1,14 @@
 {
-  "node": {},
+  "node": {
+    "4b7b2232380f3c5fd7dd10ebe3ed672e39390203": {
+      "workers": {
+        "app/admin/colaborator/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FNext.js%2Fmvp_web_2025_04-main%2Fapp%2Flib%2Faction.ts%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/colaborator/page": "rsc"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "e30bHNMnQsh0WeZJeolq15WDK2XSV9k66QmN+aPUDek="
+  "encryptionKey": "tl5Yfw22dKUiktSCaWLyl9c7LL0+2ECGnU6hKynmq04="
 }
